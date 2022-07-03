@@ -23,6 +23,6 @@
 
 📈 My GitHub 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=max535&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=max535&layout=compact)
 
 ![max535's GitHub stats](https://github-readme-stats.vercel.app/api?username=max535&show_icons=true&theme=dark)
