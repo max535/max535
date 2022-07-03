@@ -19,4 +19,4 @@
 
 📈 My GitHub 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=max535i&show_icons=true&theme=gotham" alt="max535" />
+<p align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=max535&hide=contribs,prs)</p>
