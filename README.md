@@ -23,7 +23,7 @@
 
 📈 My GitHub 
 
-<p align="center" width="100%"> <img src="https://github-readme-stats.vercel.app/api?username=max535&show_icons=true&theme=dark" alt="max535" />
+<p align="center" style="width: 100% !important"> <img src="https://github-readme-stats.vercel.app/api?username=max535&show_icons=true&theme=dark" alt="max535" />
 
 <p align="center" width="100%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=max535&layout=compact" alt="top langs" />
 
