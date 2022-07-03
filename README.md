@@ -17,4 +17,6 @@
 [![Material-UI](https://img.shields.io/badge/-materialui-1572B6?logo=Material-UI&style=for-the-badge)](https://material-ui.com/ru/)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=max535&hide=contribs,prs)
+📈 My GitHub 
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=max535i&show_icons=true&theme=gotham" alt="max535" />
