@@ -27,4 +27,3 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=max535&show_icons=true&theme=dark" alt="max535" />
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=max535&layout=compact" alt="top langs" />
-
