@@ -28,5 +28,5 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=max535&theme=dark)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=max535)]
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=max535&theme=dark)]
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=max535&layout=compact&theme=dark" alt="top langs" />
