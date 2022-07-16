@@ -30,6 +30,3 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=max535&theme=dark)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=max535&layout=compact&theme=dark" alt="top langs" />
-
-[<img src="https://raw.githubusercontent.com/max535/max535/master/intro.gif" alt="👋 Hi there! Меня зовут (Макс(111|nd Li)| и я frontend разработчик)" title="👋 Hi there! I'm (Макс(111|nd Li)| front-end разработчик)"/>]
-
