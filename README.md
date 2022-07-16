@@ -31,6 +31,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=max535&layout=compact&theme=dark" alt="top langs" />
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>]
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=max535.max535&color=00cf00)
