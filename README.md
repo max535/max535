@@ -31,5 +31,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=max535&layout=compact&theme=dark" alt="top langs" />
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Макс(111|nd Li)| front-end разработчик)"/>]
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! Меня зовут (Макс(111|nd Li)| и я frontend разработчик)" title="👋 Hi there! I'm (Макс(111|nd Li)| front-end разработчик)"/>]
 
