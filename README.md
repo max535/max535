@@ -30,4 +30,4 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=max535&layout=compact" alt="top langs" /><p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=max535&theme=dark)
+<p align="center">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=max535&theme=dark)</p>
