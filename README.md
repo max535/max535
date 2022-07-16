@@ -26,8 +26,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=max535&show_icons=true&theme=dark" alt="max535" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=max535&theme=dark)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=max535&theme=dark)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=max535&layout=compact" alt="top langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=max535&layout=compact&theme=dark" alt="top langs" />
 
 
